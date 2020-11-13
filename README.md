@@ -1,0 +1,2 @@
+# InstaOSINT
+lazy development WIP
